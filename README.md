@@ -8,9 +8,11 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 
 <br>
 
-<div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=0789F7&width=435&lines=Request+%3D%3E+Process+%3D%3E+Response;Status+Code+%3A+200+OK"/>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Acme&weight=900&pause=1000&color=1DF74D&background=CFFF2800&center=true&vCenter=true&width=435&lines=Request+%3D%3E+Process+%3D%3E+Response+;Status+Code+%3A+200+OK" />
+  </a>
+</p>
 
 
 #
@@ -22,15 +24,15 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 
 <div align = "left">
 
-<img alt="Java" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/Java.png?raw=true" /> 
+<img alt="Java" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/tech_icons/Java.png?raw=true" /> 
 &nbsp;
-<img alt="Python" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/Python.png?raw=true" />
+<img alt="Python" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/tech_icons/Python.png?raw=true" />
 &nbsp;
-<img alt="Spring Boot" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/Spring%20Boot.png?raw=true" />
+<img alt="Spring Boot" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/tech_icons/Spring%20Boot.png?raw=true" />
 &nbsp;
-<img alt="MySql" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/MySql.png?raw=true" />
+<img alt="MySql" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/tech_icons/MySql.png?raw=true" />
 &nbsp;
-<img alt="Redis" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/Redis.png?raw=true" />
+<img alt="Redis" width="30" style="margin-right:10;" src="https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/tech_icons/Redis.png?raw=true" />
   
 </div>
 
@@ -58,21 +60,15 @@ Building an Full Fledege Ecommerce Backend App as a part of my learning by doing
 <br>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/mayank-groverr#gh-light-mode-only">
-  <img src="./assets/images/linkedin-light.svg" width="30px" />
-</a>
-<a href="https://www.linkedin.com/in/mayank-groverr/#gh-dark-mode-only">
-  <img src="./assets/images/linkedin-dark.svg" width="30px" />
-</a>
-&nbsp;
-<a href="https://x.com/Mayank_groverr#gh-light-mode-only">
-  <img src="./assets/images/twitter-light.svg" width="30px" />
-</a>
-<a href="https://x.com/Mayank_groverr#gh-dark-mode-only">
-  <img src="./assets/images/twitter-dark.svg" width="30px" />
-</a>
-
+   
+[![linkdin](./assets/images/social_icons/linkedin-light.svg)](https://www.linkedin.com/in/mayank-groverr/#gh-light-mode-only)
+[![linkdin](./assets/images/social_icons/linkedin-dark.svg)](https://www.linkedin.com/in/mayank-groverr/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![twitter](./assets/images/social_icons/twiiter-light.svg)](https://x.com/Mayank_groverr#gh-light-mode-only)
+[![twitter](./assets/images/social_icons/twitter-dark.svg)](https://x.com/Mayank_groverr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![github](./assets/images/social_icons/github-light.svg)](https://github.com/mayank-groverr#gh-light-mode-only)
+[![github](./assets/images/social_icons/github-dark.svg)](https://github.com/mayank-groverr#gh-dark-mode-only)
 
 </div>
 
