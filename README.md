@@ -9,14 +9,11 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 <br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Acme&weight=900&pause=1000&color=1DF74D&background=CFFF2800&center=true&vCenter=true&width=435&lines=Request+%3D%3E+Process+%3D%3E+Response+;Status+Code+%3A+200+OK" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=20CA18&center=true&vCenter=true&width=435&lines=Request+%3D%3E+Process+%3D%3E+Response+;Status+Code+%3A+200+OK"
 </p>
 
 
 #
-
 
 ### Tools and Technologies ⚙
 
@@ -40,12 +37,7 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 
 ### Projects 🛠
 
-#### 📦 E-Commerce Backend Application (In-Progress)
-Building an Full Fledege Ecommerce Backend App as a part of my learning by doing projects
-- Repository: **[View Repository](YOUR_REPO_LINK_HERE)**
-
-
-
+- [E-Commerce Backend Application (In-Progress)](YOUR_REPO_LINK_HERE): Building an Full Fledege Ecommerce Backend App as a part of my learning by doing projects
 #
 
 ### GitHub Stats 📈
