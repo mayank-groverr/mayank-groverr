@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mayank-groverr/mayank-groverr/blob/main/images/b2.jpg?raw=true)
+![MasterHead](https://github.com/mayank-groverr/mayank-groverr/blob/main/assets/images/banner.png?raw=true)
 <h2>Mayank Grover</h2>
 
 ### About Me 
