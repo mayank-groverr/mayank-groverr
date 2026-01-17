@@ -15,7 +15,7 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 
 #
 
-### Tools and Technologies ⚙
+### Tools and Technologies 
 
 
 
@@ -35,12 +35,14 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 
 #
 
-### Projects 🛠
+### Projects 
 
 - [E-Commerce Backend Application (In-Progress)](https://github.com/mayank-groverr/ecommerce-backend): Building an Full Fledege Ecommerce Backend App as a part of my learning by doing projects
+- [JWT Authentication Service](https://github.com/mayank-groverr/auth-app): Built a stateless authentication backend using Spring Boot, Spring Security, JWT, and MongoDB. Implements secure login and registration with encrypted passwords and custom JWT validation filters.
+  
 #
 
-### GitHub Stats 📈
+### GitHub Stats 
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mayank-groverr&theme=radical&hide_border=false)
