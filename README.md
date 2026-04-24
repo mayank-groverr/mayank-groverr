@@ -2,7 +2,7 @@
 
 
 ### About Me 
-**`Backend Learner`**
+**`Backend Developer`**
 
 I am a backend development enthusiast currently learning Spring Boot and Java to build scalable backend systems. I also focus on improving my data structures and algorithms skills to enhance problem-solving and logical thinking capabilities. I am currently pursuing a Bachelor of Computer Applications (BCA) and am in the second year of college.
 
