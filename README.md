@@ -45,8 +45,9 @@ I am a backend development enthusiast currently learning Spring Boot and Java to
 ### GitHub Stats 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=mayank-groverr&theme=radical&hide_border=false)
-
+![mayank-groverr's Stats](https://github-readme-stats.vercel.app/api?username=mayank-groverr&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![mayank-groverr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-groverr&theme=radical&hide_border=false)
+![mayank-groverr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-groverr&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 #
